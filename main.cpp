@@ -6,7 +6,8 @@ float neper(float);
 int main()
 {
     int N;
-    cout<<"Enter your number of sentenc: ";
+    cout<<""
+          "ppppppp: ";
     cin>>N;
     cout<<neper(N)<<"\n";
     return 0;

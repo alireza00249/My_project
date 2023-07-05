@@ -7,7 +7,7 @@ int main()
 {
     int N;
     cout<<""
-          "ppppppp: ";
+          "Enter your N: ";
     cin>>N;
     cout<<neper(N)<<"\n";
     cout<<"goal is a";

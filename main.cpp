@@ -10,6 +10,7 @@ int main()
           "ppppppp: ";
     cin>>N;
     cout<<neper(N)<<"\n";
+    cout<<"goal is a";
     return 0;
 }
 int factor(int f){
